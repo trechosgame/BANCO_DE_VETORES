@@ -11,7 +11,11 @@ https://mqjogos.github.io/QUIZ/app.html
   
 # CÓDIGO FONTE:
  - 
-
+# Redes Sociais:
+- https://www.instagram.com/trechosgame/
+- https://www.linkedin.com/in/debora-inocencio/
+- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- https://github.com/trechosgame
 
 # Color Palette:
  - https://mycolor.space
@@ -27,9 +31,6 @@ https://mqjogos.github.io/QUIZ/app.html
 - https://www.unsplash.com/
 - https://www.flaticon.com/
 - https://www.pngegg.com/
+- https://tinypng.com/
 
-# Redes Sociais:
-- https://www.instagram.com/mqjogos/
-- https://www.linkedin.com/in/debora-inocencio/
-- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
-- https://github.com/MQJogos
+
